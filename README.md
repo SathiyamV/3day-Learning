@@ -1,7 +1,7 @@
 # 3day-Learning
 Day -1
 Learn Git&Git hub
- Learn Python Concepts:
+Learn Python Concepts:
 - Core Data Types
 - Print and Output
 - Variables
