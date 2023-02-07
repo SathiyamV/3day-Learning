@@ -1,12 +1,12 @@
 # 3day-Learning
 Day -1
 Learn Git&Git hub
-Learn Python Concepts:
+ Learn Python Concepts:
 - Core Data Types
 - Print and Output
 - Variables
 - User Input
-- Arithmetic Operators
+- Arithmetic Operatorss
 - String Methods
 - Conditional Operators
 - If/Else/Elif
